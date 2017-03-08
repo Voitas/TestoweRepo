@@ -1,0 +1,2 @@
+# TestoweRepo
+Testujemy Git'a
